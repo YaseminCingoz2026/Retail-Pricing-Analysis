@@ -3,6 +3,7 @@ Retail Price Optimization: Analyzing Demand, Competitor Pricing, and Revenue Opp
 This project explores how an online retailer can use historical sales data, product pricing, and competitor information to identify opportunities for improving its pricing strategy.
 
 **Business Problem**
+
 An online retailer manages pricing across multiple product categories, but product-level pricing decisions may be made without a clear understanding of how historical prices relate to customer demand. 
 This creates uncertainty about which products might benefit from a pricing review and when competitor positioning or seasonal factors should inform decisions.
 
@@ -10,6 +11,7 @@ This project examines historical sales, selling prices, and competitor price ben
 
 
 **Business Question**
+
 How do product prices relate to customer demand, and where can a retailer adjust its pricing strategy to improve sales performance and competitiveness?
 
 Supporting questions
