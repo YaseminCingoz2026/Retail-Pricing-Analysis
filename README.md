@@ -13,9 +13,12 @@ This project examines historical sales, selling prices, and competitor price ben
 How do product prices relate to customer demand, and where can a retailer adjust its pricing strategy to improve sales performance and competitiveness?
 
 Supporting questions
+
 1.Where does revenue come from across products, categories, and time?
     Identifies the products and categories where pricing decisions have the greatest financial impact.
+    
 2.How does sales volume change when a product is priced above or below its historical average?
     Helps identify possible price sensitivity and evaluate pricing opportunities.
+    
 3.How do competitor prices and seasonal patterns relate to sales performance?
     Helps determine when competitive pricing or seasonal promotions may be worth considering.
