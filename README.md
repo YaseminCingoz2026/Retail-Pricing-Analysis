@@ -1,5 +1,7 @@
 # Retail-Pricing-Analysis
+
 Retail Price Optimization: Analyzing Demand, Competitor Pricing, and Revenue Opportunities
+
 This project explores how an online retailer can use historical sales data, product pricing, and competitor information to identify opportunities for improving its pricing strategy.
 
 **Business Problem**
